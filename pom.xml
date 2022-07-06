@@ -31,13 +31,13 @@
     <repository>
         <id>central</id>
         <name>libs-snapshot</name>
-        <url>http://ec2-3-88-1-176.compute-1.amazonaws.com:8081/artifactory/libs-release</url>
+        <url>http://54.81.49.238:8081/artifactory/libs-release</url>
     </repository>
 
     <snapshotRepository>
         <id>snapshots</id>
         <name>libs-snapshot</name>
-        <url>http://ec2-3-88-1-176.compute-1.amazonaws.com:8081/artifactory/libs-snapshot</url>
+        <url>http://54.81.49.238:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 
